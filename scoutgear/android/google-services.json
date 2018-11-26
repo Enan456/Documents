@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "269363065314",
+    "firebase_url": "https://scoutgear-2018.firebaseio.com",
+    "project_id": "scoutgear-2018",
+    "storage_bucket": "scoutgear-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269363065314:android:9dbe563ad788735e",
+        "android_client_info": {
+          "package_name": "com.gif.scoutgear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269363065314-dld667ae31o7v1pm6kk059ssk3dmjmnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcftiMZs_YU7_XwuIYHpgvVudJcm9Lhw0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
